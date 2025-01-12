@@ -1,5 +1,5 @@
 ### Welcome!
-You can call me Ryan, vedaRadev, or Mal.
+You can call me Ryan, vedaRadev, veda, or Mal.
 
 - I've been programming since 2013 or 2014 when I took my first high-school classes (VB.NET and Java).
 - I've been in the industry for 5+ years doing front-end, internal tooling, and devops. 
